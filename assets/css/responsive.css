@@ -1,19 +1,21 @@
 @media only screen and (min-width: 1651px) and (max-width: 1890px) {
-.generate_content_wrapper .generate_form {
-	max-width: 760px;
-	margin-right: 50px;
+	.generate_content_wrapper .generate_form {
+		max-width: 760px;
+		margin-right: 50px;
+	}
+
+	.generate_content_wrapper .generate_content {
+		width: 682px;
+	}
 }
 
-.generate_content_wrapper .generate_content {
-	width: 682px;
+@media only screen and (min-width: 1651px) and (max-width: 1690px) {
+	.ans_share_btn > a {
+		padding: 29px 20px;
+	}
 }
-}
 
-
-
-
-
-@media only screen and (min-width: 1401px) and (max-width: 1650px) {
+@media only screen and (min-width: 1400px) and (max-width: 1650px) {
 	.generate_content_wrapper .generate_form {
 		max-width: 447px;
 		margin-right: 50px;
